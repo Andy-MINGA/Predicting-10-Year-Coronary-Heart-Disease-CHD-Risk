@@ -1,0 +1,2 @@
+# Predicting-10-Year-Coronary-Heart-Disease-CHD-Risk
+This repository contains the full analysis, code, and report of a project, where I build and evaluate several supervised learning models to predict the 10-year risk of Coronary Heart Disease (CHD). The project follows methodologies from An Introduction to Statistical Learning (ISLP, 2023) and uses real clinical data from the Framingham Heart Study.
